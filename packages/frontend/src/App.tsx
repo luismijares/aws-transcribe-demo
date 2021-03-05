@@ -4,7 +4,7 @@ import './App.css';
 import { AudioRecordTable } from './components/AudioRecordTable';
 
 export function App() {
-    return (
+    /*return (
         <div className="App">
             <header className="App-header">
                 <h1 className="App-title">AWS Transcribe Demo</h1>
@@ -14,5 +14,5 @@ export function App() {
                 <AudioRecordTable />
             </div>
         </div>
-    );
+    );*/
 }
